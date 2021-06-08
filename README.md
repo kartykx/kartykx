@@ -1,7 +1,7 @@
 ### About me
 
 - 👋 Hi, I’m Karthik 
-- :muscle: I am passionate about Kotlin and coroutines
+- :muscle: Kotlin and coroutines enthusiast
 - :technologist: I work at Agoda, based in Bangkok
 - 🌱 I’m currently learning iOS
 - 📫 How to reach me - Twitter @kartykx
